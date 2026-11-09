@@ -2,6 +2,7 @@
 layout: default
 title: "Imperial Defense Group | Análisis táctico, defensa y seguridad"
 description: "Análisis sobre defensa, seguridad, equipamiento táctico y material policial. Entrevistas y artículos de Imperial Defense Group."
+canonical: "https://imperialdefensegroup.github.io/"
 ---
 
 <style>
