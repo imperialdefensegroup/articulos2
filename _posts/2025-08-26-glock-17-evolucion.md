@@ -11,6 +11,7 @@ image: /assets/img/glock-generaciones.svg
 thumbnail: /assets/img/glock-generaciones.svg
 sitemap: true
 last_modified_at: 2025-08-26
+canonical: "https://imperialdefensegroup.github.io/articulos/glock-17-evolucion/"
 ---
 
 > **Aviso legal**: Este artículo es **informativo e histórico**. No contiene instrucciones de uso ni de manipulación de armas.
