@@ -7,6 +7,7 @@ description: "Análisis profesional de la CZ P-10 C OR, pistola compacta striker
 categories: [armamento, pistolas, CZ]
 tags: [CZ P-10 C OR, CZ P10 C OR, pistola CZ, pistola optics ready, pistola 9mm, pistola de servicio, striker fired]
 image: /assets/img/cz-p10c-fde.svg
+canonical: "https://imperialdefensegroup.github.io/articulos/cz-p10-c-or-analisis/"
 ---
 
 > **Aviso legal:** Este artículo tiene carácter informativo, técnico e histórico. No contiene instrucciones de uso, manipulación ni modificación de armas de fuego.
