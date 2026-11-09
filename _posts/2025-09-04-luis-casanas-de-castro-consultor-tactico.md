@@ -7,6 +7,7 @@ lang: es
 tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
 image: /assets/img/chaleco.jpg
 author: "Imperial Defense Group"
+canonical: "https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
 ---
 
 **Continúa la entrevista:** [Luis Casañas de Castro — segunda parte: Echelon 4.0, CZ P10C y CZ Bren 3](https://imperialdefensegroup.github.io/articulos/entrevista-luis-casanas-parte-2/).
